@@ -31,14 +31,17 @@ THEN I am able to successfully create, update, and delete data in my database
 
 Please install the following dependencies to run the application properly:
 
-npm init --y
-npm install express sequelize mysql2
-npm install dotenv
+- npm init --y
+- npm install express sequelize mysql2
+- npm install dotenv
 
 create .env file and enter the following:
-DB_NAME ='THE DATABASE NAME YOU WANT TO NAME IT'
-DB_USER ='YOUR MYSQL USER NAME'
-DB_PASSWORD ='YOUR PASSWORD FOR MYSQL'
+
+- DB_NAME ='THE DATABASE NAME YOU WANT TO NAME IT'
+- DB_USER ='YOUR MYSQL USER NAME'
+- DB_PASSWORD ='YOUR PASSWORD FOR MYSQL'
+
+https://drive.google.com/file/d/1E9nxzRaUp79QJpYL3JneqylMjLT6CMbd/view
 
 ## Usage:
 
@@ -71,4 +74,5 @@ No testing is currently set up
 If you have any questions, please open a issue or contact the following:
 
 Github Profile Contact: https://github.com/BenYeung4
+
 Email Contact: byeungis@gmail.com
