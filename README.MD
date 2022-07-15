@@ -43,6 +43,8 @@ create .env file and enter the following:
 
 https://drive.google.com/file/d/1E9nxzRaUp79QJpYL3JneqylMjLT6CMbd/view
 
+![Capture](https://user-images.githubusercontent.com/52897163/179132907-32ac0075-9575-49a0-ae85-bd2f69e8a244.JPG)
+
 ## Usage:
 
 Run the following at the root of the project:
