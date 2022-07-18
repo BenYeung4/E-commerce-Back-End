@@ -9,12 +9,16 @@ SO THAT my company can compete with other e-commerce companies
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
+
 WHEN I enter schema and seed commands
 THEN a development database is created and is seeded with test data
+
 WHEN I enter the command to invoke the application
 THEN my server is started and the Sequelize models are synced to the MySQL database
+
 WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
+
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
@@ -42,6 +46,8 @@ create .env file and enter the following:
 - DB_PASSWORD ='YOUR PASSWORD FOR MYSQL'
 
 https://drive.google.com/file/d/1E9nxzRaUp79QJpYL3JneqylMjLT6CMbd/view
+
+![Capture](https://user-images.githubusercontent.com/52897163/179132907-32ac0075-9575-49a0-ae85-bd2f69e8a244.JPG)
 
 ## Usage:
 
